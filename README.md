@@ -1,4 +1,4 @@
-# Imperial-AI-and-ML-Course-Capstone-Project
+# Imperial AI and ML Course Capstone Project
 
 ## Project Summary
 TBC
