@@ -5,6 +5,8 @@ This capstone project is a part of the Imperial AI and ML course and is designed
 
 The BBO capstone project would help support my career by providing me hands on expierence applying ML methods in an environment that simulates the real world, giving me practical knowledge that I can apply in my day-to-day work.
 
+Please see the [datasheet](https://github.com/Kelly-A-W/Imperial-AI-and-ML-Course-Capstone-Project/blob/main/datasheet.md) and the [model card](https://github.com/Kelly-A-W/Imperial-AI-and-ML-Course-Capstone-Project/blob/main/modelCARD.md) for further information. 
+
 ## Inputs and Outputs
 We were given the following information about the inputs and outputs in our project:
 | Function   | Input     | Output    | Optimisation Goal | Description |
